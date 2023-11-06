@@ -1,0 +1,29 @@
+Accessibility in Web Development:-
+This article starts the module off with a good look at what accessibility is — this overview includes what groups of people we need to consider and why, what tools different people use to interact with the web, and how we can make accessibility part of our web development workflow.
+Accessibility in web development refers to designing and coding websites
+in a way that ensures people with disabilities can perceive, understand, navigate, and interact with digital
+content effectively. It involves making web content inclusive and usable for everyone, regardless of their
+abilities.
+
+=> Importance of Web Accessibility:-
+(1)-Inclusivity and Equal Access:
+Web accessibility ensures that everyone, including people with disabilities, can access and use online information and services, promoting inclusivity and equal opportunities.
+
+(2)-Legal and Ethical Obligations:
+Many countries have laws and regulations that require websites to be accessible to people with disabilities. Failing to comply can result in legal consequences and ethical concerns.
+
+(3)-Improved User Experience:
+Accessibility enhancements often benefit all users by providing a better and more user-friendly experience, such as faster-loading pages, clear navigation, and more comprehensible content.
+
+=> Benefits for User Groups:
+(1)-People with Visual Impairments:
+   (a)-Screen Reader Users: Accessible websites can be read aloud by screen readers, enabling people with visual impairments to access textual content.
+   (b)-Braille Displays: Web accessibility allows content to be presented in a way that can be easily translated into Braille for Braille display users.
+   (c)-Alternative Text: Images with alternative text descriptions allow visually impaired users to understand the content and context of images.
+    
+(2)-People with Hearing Impairments:
+Captions and Transcripts: Accessible videos include captions and transcripts, ensuring that people with hearing impairments can understand spoken content.
+
+(3)-People with Mobility Impairments:
+    (a)- Keyboard Navigation: Accessible websites are navigable using a keyboard, helping individuals who may have difficulty using a mouse or other pointing devices.
+    (b)- Voice Recognition Software: Web accessibility allows people with mobility impairments to navigate and interact with websites using voice recognition software.

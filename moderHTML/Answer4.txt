@@ -1,0 +1,19 @@
+List any 3 ways which help us in improving the accessibility of HTML:-
+
+(1)- Semantic HTML:-Semantic HTML means using correct HTML elements for their correct purpose as much as possible. Semantic elements are elements with a meaning; if you need a button, use the <button> element (and not a <div> element).Semantic HTML gives context to screen readers, which read the contents of a page out loud.
+With the button example in mind:
+buttons have more suitable styling by default
+(a)a screen reader identifies it as a button
+(b)focusable
+(c)clickable
+
+(2)- Headings Are Important:- Headings are defined with the <h1> to <h6> tags:
+Search engines use the headings to index the structure and content of your web pages.
+Users skim your pages by its headings. It is important to use headings to show the document structure and the relationships between different sections.
+
+
+(3)- Alternative Text:-
+If a browser cannot find an image, it will display the value of the alt attribute:
+
+(4)- Declare the Language:-
+You should always include the lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers.

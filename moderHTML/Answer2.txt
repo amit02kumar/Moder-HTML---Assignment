@@ -1,0 +1,14 @@
+HTML Entities:-
+HTML entities are special codes or character references used to display reserved or special characters in HTML documents. They are especially useful when you want to display characters that have a special meaning in HTML, such as angle brackets (< and >), ampersands (&), or special symbols.
+
+
+Here are five commonly used HTML entities:
+(a)- &lt; - Less Than Sign (<): This entity is used to display the less than sign, which is typically reserved for HTML tag opening brackets.
+
+(b)- &gt; - Greater Than Sign (>): This entity is used to display the greater than sign, which is typically reserved for HTML tag closing brackets.
+
+(c)- &amp; - Ampersand (&): This entity is used to display the ampersand symbol itself. In HTML, an unescaped ampersand can indicate the start of an entity reference, so using &amp; is essential when you want to display an ampersand character.
+
+(d)- &quot; - Double Quotation Mark ("): This entity is used to display double quotation marks, often within attribute values of HTML tags.
+
+(e)- &apos; - Single Quotation Mark ('): While not as commonly used as the others, this entity represents a single quotation mark and can be used in cases where single quotes are necessary.
